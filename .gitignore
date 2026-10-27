@@ -1,0 +1,25 @@
+# Local execution records and machine configuration
+*.log
+**/install-result.json
+**/last-result.json
+**/uninstall-result.json
+**/setup_error.json
+**/setup_marker.json
+**/installed-by-timesync6h.txt
+*.local.*
+.env
+.env.*
+auth.json
+config.toml
+*.sqlite*
+*.db
+*.bak
+# Local screenshots and generated archives
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+*.tmp
+Thumbs.db
+.DS_Store
